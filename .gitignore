@@ -1,0 +1,16 @@
+.idea/
+data/
+datasets/
+__pycache__/
+Self Driving Car/last_brain.pth
+*.pkl
+
+.ipynb_checkpoints/
+
+*.h5
+my_log_dir/
+
+fer2013.csv
+logs/
+*.pt
+saved/
