@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="docs/tl.png" width=50% title="CrissCross" alt="CrissCross" /> 
+<img src="docs/tl.png" width=75% title="CrissCross" alt="CrissCross" /> 
 </p>
 
 <h1 align="center"> 
