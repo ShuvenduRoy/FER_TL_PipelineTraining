@@ -1,3 +1,11 @@
+Official implementation of our paper:
+
+> [**Facial Emotion Recognition Using Transfer Learning in the Deep CNN**](https://arxiv.org/abs/2306.01195)  
+> M. A. H. Akhand, Shuvendu Roy, Nazmul Siddique, Md Abdus Samad Kamal, and Tetsuya Shimamura. <br>
+> \*In Electronics 2024
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/facial-emotion-recognition-using-transfer/facial-expression-recognition-on-jaffe)](https://paperswithcode.com/sota/facial-expression-recognition-on-jaffe?p=facial-emotion-recognition-using-transfer)
+
 <p align="center"> 
 <img src="docs/tl.png" width=75% title="CrissCross" alt="CrissCross" /> 
 </p>
