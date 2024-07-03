@@ -1,6 +1,6 @@
 Official implementation of our paper:
 
-> [**Facial Emotion Recognition Using Transfer Learning in the Deep CNN**]([https://arxiv.org/abs/2306.01195](https://www.mdpi.com/2079-9292/10/9/1036))  
+> [**Facial Emotion Recognition Using Transfer Learning in the Deep CNN**](https://www.mdpi.com/2079-9292/10/9/1036)  
 > M. A. H. Akhand, Shuvendu Roy, Nazmul Siddique, Md Abdus Samad Kamal, and Tetsuya Shimamura. <br>
 > \*In Electronics 2024
 
